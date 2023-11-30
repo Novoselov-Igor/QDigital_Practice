@@ -5,7 +5,7 @@
 - Ссылка на репозиторий:
   - [Скриншот 1](https://raw.githubusercontent.com/Novoselov-Igor/QDigital_Practice/Task-2/img2.png)
   - [Скриншот 2](https://raw.githubusercontent.com/Novoselov-Igor/QDigital_Practice/Task-2/image.png)
-# GIT. Задача 1
+# GIT. Задача 3
 - Ссылка на анкету:
   - [Профиль](https://www.sololearn.com/ru/profile/30815359)
   - [Сертификат](https://www.sololearn.com/certificates/CC-ORNZQLEK)
