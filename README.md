@@ -9,3 +9,6 @@
 - Ссылка на анкету:
   - [Профиль](https://www.sololearn.com/ru/profile/30815359)
   - [Сертификат](https://www.sololearn.com/certificates/CC-ORNZQLEK)
+# GIT. Задача 5
+- Ссылка на репозиторий:
+  - [PHP. Task List](https://github.com/Novoselov-Igor/QDigital_Task5.git)
