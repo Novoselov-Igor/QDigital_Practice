@@ -13,4 +13,8 @@
   ![image](https://github.com/Novoselov-Igor/QDigital_Practice/assets/114796666/082b24a2-cfc1-411c-857d-eb3969e361b2)
 # PHP. Задача 6
 - Ссылка на репозиторий:
-  - [PHP. Task List](https://github.com/Novoselov-Igor/QDigital_Task5.git)
+  - [PHP. Task List](https://github.com/Novoselov-Igor/QDigital_Task6.git)
+# PHP. Задача 7
+- Ссылка на репозиторий:
+  - [PHP. OOP](https://github.com/Novoselov-Igor/QDigital_Task7.git)
+
