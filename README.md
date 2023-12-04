@@ -10,7 +10,7 @@
   - [Профиль](https://www.sololearn.com/ru/profile/30815359)
   - [Сертификат](https://www.sololearn.com/certificates/CC-ORNZQLEK)
 # MySQL. Задача 4
-  ![image](https://github.com/Novoselov-Igor/QDigital_Practice/assets/114796666/082b24a2-cfc1-411c-857d-eb3969e361b2)
+  ![image](https://github.com/Novoselov-Igor/QDigital_Practice/assets/114796666/a6bae603-b81b-4872-9ada-2fe8822b3d30)
 # PHP. Задача 6
 - Ссылка на репозиторий:
   - [PHP. Task List](https://github.com/Novoselov-Igor/QDigital_Task6.git)
