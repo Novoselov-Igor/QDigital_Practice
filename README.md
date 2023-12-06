@@ -17,4 +17,8 @@
 # PHP. Задача 7
 - Ссылка на репозиторий:
   - [PHP. OOP](https://github.com/Novoselov-Igor/QDigital_Task7.git)
+# PHP. Задача 8
+- Ссылка на репозиторий:
+  - [PHP. MVC](https://github.com/Novoselov-Igor/QDigital_Task8.git)
+
 
