@@ -20,5 +20,8 @@
 # PHP. Задача 8
 - Ссылка на репозиторий:
   - [PHP. MVC](https://github.com/Novoselov-Igor/QDigital_Task8.git)
+# Laravel. Задача 9
+- Ссылка на репозиторий:
+  - [PHP. Laravel](https://github.com/Novoselov-Igor/QDigital_Laravel_Tasks.git)
 
 
